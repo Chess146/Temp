@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-google-sans: "Google Sans";
+  --font-tomorrow: Tomorrow;
+
+  /* font sizes */
+  --font-size-3xs-3: 0.58rem;
+  --font-size-smi-4: 0.78rem;
+  --font-size-mid: 1.06rem;
+  --font-size-xl: 1.25rem;
+  --font-size-sm: 0.88rem;
+  --font-size-xs: 0.75rem;
+  --font-size-3xs: 0.63rem;
+  --font-size-sm-1: 0.82rem;
+  --font-size-smi: 0.81rem;
+  --font-size-3xl: 1.38rem;
+  --font-size-base: 1rem;
+  --font-size-2xs-7: 0.67rem;
+  --font-size-3xs-2: 0.57rem;
+  --font-size-smi-2: 0.76rem;
+  --font-size-2xs: 0.69rem;
+  --font-size-mini-5: 0.91rem;
+  --font-size-lg: 1.13rem;
+
+  /* Colors */
+  --color-4: #fff;
+  --black: #000;
+  --icons-color-02: #d7d9e6;
+  --color-ghostwhite-100: #f6f7fc;
+  --color-darkgray-100: #aeaeae;
+  --grey-text: #a1a4ac;
+  --neutral-3: #989898;
+  --text-defaul: #979797;
+  --color-whitesmoke-100: #f7f7f9;
+  --color-whitesmoke-200: #f3f2f2;
+  --line-1: #ececec;
+  --primary-1: #3629b7;
+  --neutral-1: #343434;
+  --grey-text1: #313131;
+  --semantic-4: #52d5ba;
+  --color-3: #fe5260;
+  --brand-2: #ff4267;
+  --semantic-3: #ffaf2a;
+  --cards-bg: #fefeff;
+  --color-5: #1c1f3e;
+  --color-2: #6f767e;
+  --color-silver: #bcbdc2;
+  --color-blueviolet-100: #623ce7;
+  --color-mintcream: #f0faf5;
+  --color-1: #a9b8cd;
+  --color-6: #8bdad7;
+
+  /* border radiuses */
+  --br-10xs-1: 2.1px;
+  --br-5xs-7: 7.7px;
+  --br-lg: 18px;
+  --br-2xs-9: 10.9px;
+  --br-5xs-6: 7.6px;
+  --br-9xs-8: 3.8px;
+  --br-6xs-1: 6.1px;
+  --br-3xs: 10px;
+}
